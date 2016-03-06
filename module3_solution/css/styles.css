@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+#nav-list {
+	background-color: #259c6e;
+	text-align: center;
+}
+
+#nav-list li {
+	border: 1px solid black;
+}
+
+#text-container {
+	height: 1000px;
+	background-color: #f6b319;
+}
